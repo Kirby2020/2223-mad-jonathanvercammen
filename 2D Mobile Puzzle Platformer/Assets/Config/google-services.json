@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "5337848536",
+    "firebase_url": "https://puzzle-sense-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "puzzle-sense",
+    "storage_bucket": "puzzle-sense.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5337848536:android:470f6c3c052826651c15ad",
+        "android_client_info": {
+          "package_name": "com.KirbyGames.mobilePuzzlePlatformer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5337848536-kidq1nln6qd8dqanpr67q9ibeqm81q2i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.KirbyGames.mobilePuzzlePlatformer",
+            "certificate_hash": "15c9e6588b3a3eaad83a88c0875085e9e21b37cc"
+          }
+        },
+        {
+          "client_id": "5337848536-a74br6oij5hnjuj5qij709m9q654k06f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrSQEVNkflRfx50lARKa0vIfMnOYyWtug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5337848536-a74br6oij5hnjuj5qij709m9q654k06f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

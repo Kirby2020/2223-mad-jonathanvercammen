@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - NormalGround
+  - SlipperyGround
+  - Firebase Cloud Service
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Solid
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 702767557
+    locked: 0
+  - name: Background Tiles
+    uniqueID: 1582128057
+    locked: 0
+  - name: Entities
+    uniqueID: 2514750147
+    locked: 0
+  - name: Tiles
+    uniqueID: 4077086253
+    locked: 0
+  - name: GUI
+    uniqueID: 310283965
+    locked: 0

@@ -1,0 +1,19 @@
+2D Pixel Art - Distant Forest 64x64
+Lifty
+https://assetstore.unity.com/packages/2d/environments/2d-pixel-art-distant-forest-64x64-194105
+
+2D Platfrom Tile Set - Cave
+Iphigenia Pixels
+https://assetstore.unity.com/packages/2d/environments/2d-platfrom-tile-set-cave-61672
+
+Virtual Buttons
+Cyberghost Games
+https://assetstore.unity.com/packages/tools/input-management/virtual-buttons-200159
+
+2D Casual UI HD
+MiMU STUDIO
+https://assetstore.unity.com/packages/2d/gui/icons/2d-casual-ui-hd-82080
+
+Animated Loading Icons
+Infima Games
+https://assetstore.unity.com/packages/2d/gui/icons/animated-loading-icons-47844

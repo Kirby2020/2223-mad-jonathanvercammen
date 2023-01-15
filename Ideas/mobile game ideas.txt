@@ -1,0 +1,21 @@
+puzzel met lichtsensor, licht of donker verandert iets in de puzzel
+gyro ball, gebruik gyroscoop om bal naar de finish te rollen
+ritmespel met accelerometer, zwier je gsm op het ritme van de muziek
+multisensor physics game / simulator
+element/ potion creation with different sensors: shaking, light, sound
+game that monitors heartrate
+autoscroller, hoe sneller je hartslag hoe sneller het spel
+circular wave defense, rotate with accelerometer, extras with other sensors 
+
+2D platformer puzzle game (slime labs 2, kombinera), met sensoren om verder te gaan
+extra minigames/ puzzle rush
+
+https://medium.com/swlh/how-to-design-breathtaking-2d-platformer-levels-e8a261cdac93
+
+
+Iets extras buiten gsm vb een papier met kleuren / QR codes
+changing gravity by changing phone rotation
+
+
+
+A real-time strategy game where you conquer caves by changing the terrain.

@@ -1,0 +1,5 @@
+0: Background
+1: Background tiles
+2: Other tiles
+3: Player
+4: Entities (Flags, water, lava)

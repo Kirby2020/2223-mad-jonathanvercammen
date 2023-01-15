@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>5337848536-uvkbadh0uhdvgm8vaarn8tdkk6qmkm2f.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.5337848536-uvkbadh0uhdvgm8vaarn8tdkk6qmkm2f</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>5337848536-kidq1nln6qd8dqanpr67q9ibeqm81q2i.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAuHscvQHaL5KQk0j8iSILioPBTmLls-68</string>
+	<key>GCM_SENDER_ID</key>
+	<string>5337848536</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.KirbyGames.mobilePuzzlePlatformer</string>
+	<key>PROJECT_ID</key>
+	<string>puzzle-sense</string>
+	<key>STORAGE_BUCKET</key>
+	<string>puzzle-sense.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:5337848536:ios:8ccd2e0d6001f5031c15ad</string>
+	<key>DATABASE_URL</key>
+	<string>https://puzzle-sense-default-rtdb.europe-west1.firebasedatabase.app</string>
+</dict>
+</plist>

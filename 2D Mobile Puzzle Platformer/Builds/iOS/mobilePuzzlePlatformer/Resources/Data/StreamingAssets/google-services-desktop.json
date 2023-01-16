@@ -1,0 +1,37 @@
+{
+  "project_info": {
+    "project_number": "5337848536",
+    "firebase_url": "https://puzzle-sense-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "puzzle-sense",
+    "storage_bucket": "puzzle-sense.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5337848536:ios:8ccd2e0d6001f5031c15ad",
+        "android_client_info": {
+          "package_name": "com.KirbyGames.mobilePuzzlePlatformer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5337848536-uvkbadh0uhdvgm8vaarn8tdkk6qmkm2f.apps.googleusercontent.com"
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuHscvQHaL5KQk0j8iSILioPBTmLls-68"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
